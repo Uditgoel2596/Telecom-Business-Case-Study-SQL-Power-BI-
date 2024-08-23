@@ -1,4 +1,4 @@
--------------------------------------------------------------------------------**Telecom Customer Churn Analysis**-----------------------------------------------------------
+---**Telecom Customer Churn Analysis**---
 
 **Project Overview**
 This project analyzes customer data to identify key factors contributing to churn. The objective is to provide actionable insights for businesses to develop targeted retention strategies and improve customer satisfaction.
